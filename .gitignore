@@ -3,3 +3,5 @@
 debian/files
 *.build
 
+# emacs backup files
+*~
